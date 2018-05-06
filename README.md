@@ -1,7 +1,7 @@
 # Disenio-de-Interfaces-de-Usuario_DIU
 Proyecto de diseño de agenda de eventos UGR.
 
-GitHub Pages: 
+GitHub Pages: https://adrizzy.github.io/
 
 Integrantes:
 
